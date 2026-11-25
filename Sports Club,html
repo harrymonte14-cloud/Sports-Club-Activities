@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sports Club From Group #2</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f1f2f3;
+        }
+
+        header {
+            background-color: #0077cc;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        section {
+            background-color: white;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+        }
+
+        h2 {
+            color: #0077cc;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+
+        th {
+            background-color: #0077cc;
+            color: white;
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: center;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        footer {
+            background-color: #0077cc;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>🏆 Sports Club</h1>
+    <p>Building Fitness, Teamwork, and Sportsmanship</p>
+</header>
+
+<section>
+    <h2>Introduction</h2>
+    <p>
+        The Sports Club is a student organization that promotes physical fitness,
+        teamwork, and sportsmanship through various sports and recreational activities.
+        It gives students opportunities to stay active, develop their skills, and
+        build friendships in a fun and healthy environment.
+    </p>
+</section>
+
+<section>
+    <h2>Sports Club Activities</h2>
+
+    <table>
+        <tr>
+            <th>Sport</th>
+            <th>Activity</th>
+            <th>Available Days</th>
+            <th>Available Time</th>
+        </tr>
+
+        <tr>
+            <td>Basketball</td>
+            <td>Skills Training & Friendly Games</td>
+            <td>Monday, Wednesday</td>
+            <td>3:00 PM - 5:00 PM</td>
+        </tr>
+
+        <tr>
+            <td>Volleyball</td>
+            <td>Team Practice & Matches</td>
+            <td>Tuesday, Thursday</td>
+            <td>3:00 PM - 5:00 PM</td>
+        </tr>
+
+        <tr>
+            <td>Badminton</td>
+            <td>Singles and Doubles Practice</td>
+            <td>Friday</td>
+            <td>3:00 PM - 5:00 PM</td>
+        </tr>
+
+        <tr>
+            <td>Soccer</td>
+            <td>Drills and Team Play</td>
+            <td>Saturday</td>
+            <td>8:00 AM - 11:00 AM</td>
+        </tr>
+
+        <tr>
+            <td>Table Tennis</td>
+            <td>Practice Sessions</td>
+            <td>Wednesday, Friday</td>
+            <td>4:00 PM - 6:00 PM</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h2>Purpose of the Sports Club</h2>
+    <p>
+        The Sports Club aims to encourage students to maintain a healthy lifestyle,
+        develop athletic skills, build self-confidence, and learn the values of
+        teamwork, discipline, and leadership through participation in sports.
+    </p>
+</section>
+
+<section>
+    <h2>Conclusion</h2>
+    <p>
+        The Sports Club plays an important role in student development by promoting
+        physical and mental well-being. Through sports activities, students gain
+        valuable life skills, make new friends, and enjoy a positive and active
+        school experience.
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 Sports Club | Group #2</p>
+</footer>
+
+</body>
+</html>
